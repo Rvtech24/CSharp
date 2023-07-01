@@ -1,0 +1,6 @@
+c:\users\elcot\documents\visual studio 2015\Projects\prja\prja\bin\Debug\prja.exe.config
+c:\users\elcot\documents\visual studio 2015\Projects\prja\prja\bin\Debug\prja.exe
+c:\users\elcot\documents\visual studio 2015\Projects\prja\prja\bin\Debug\prja.pdb
+c:\users\elcot\documents\visual studio 2015\Projects\prja\prja\obj\Debug\prja.csprojResolveAssemblyReference.cache
+c:\users\elcot\documents\visual studio 2015\Projects\prja\prja\obj\Debug\prja.exe
+c:\users\elcot\documents\visual studio 2015\Projects\prja\prja\obj\Debug\prja.pdb
